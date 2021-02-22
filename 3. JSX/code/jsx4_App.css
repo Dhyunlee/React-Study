@@ -1,0 +1,9 @@
+/* App.css 파일넣어서 실행!! */
+
+.App {
+    background: black;
+    color: aqua;
+    font-size: 36px;
+    padding: 1rem;
+    font-weight: 600;
+  }
