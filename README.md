@@ -13,3 +13,6 @@
  * [누구든지하는 리액트](https://velopert.com/3613)
  * [벨로퍼트](https://react.vlpt.us/)
  * [생활코딩 강좌](https://www.youtube.com/watch?v=XMb0w3KMw00&list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi)
+
+## 추가
+ * 리액트 함수형 컴포넌트 정리한 내용도 업로드하기!
